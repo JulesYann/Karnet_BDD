@@ -5,7 +5,7 @@
     <author>Jules-Yann Milleret</author>
     <home_page></home_page>
     <tracker></tracker>
-    <repository>https://github.com/JulesYann/Karnet_BDD/blob/main/Karnet_BDD_prod/Karnet-master-v1.0.5.zip</repository>
+    <repository>https://raw.githubusercontent.com/JulesYann/Karnet_BDD/main/plugin.xml</repository>
     <file_name>Karnet-master-v1.0.5.zip</file_name>
     <version_installed>1.0.5</version_installed>
     <downloads>123</downloads>
