@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories>
+  <repository>
+    <url>https://raw.githubusercontent.com/JulesYann/Karnet/master/plugin.xml</url>
+    <enabled>1</enabled>
+  </repository>
+</repositories>
