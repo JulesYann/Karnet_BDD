@@ -1,11 +1,10 @@
 <plugins>
   <pyqgis_plugin name="Karnet-BDD" version="1.0.5" qgis_minimum_version="3.0">
-    <description>Plugin pour l'exploitation des données Karum</description>
-    <about>Ce plugin fait des choses incroyables...</about>
+    <description>Plugin d'exploitation des données Karum.</description>
+    <about>Ce plugin est à destination des écologues Karum.</about>
     <author>Jules-Yann Milleret</author>
     <repository>https://github.com/JulesYann/Karnet_BDD/raw/main/Karnet_BDD_prod/Karnet-master-v1.0.5.zip</repository>
     <file_name>Karnet-master-v1.0.5.zip</file_name>
     <version_installed>1.0.5</version_installed>
-    <downloads>123</downloads>
   </pyqgis_plugin>
 </plugins>
