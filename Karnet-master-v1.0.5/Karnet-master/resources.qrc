@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Karnet BDD" >
-        <file>public/favicon.png</file>
-    </qresource>
-</RCC>
