@@ -3,7 +3,7 @@
     <description>Plugin d'exploitation des données Karum.</description>
     <about>Ce plugin est à destination des écologues Karum.</about>
     <author>Jules-Yann Milleret</author>
-    <repository>https://github.com/JulesYann/Karnet_BDD/raw/main/Karnet_BDD_prod/Karnet-master-v1.0.5.zip</repository>
+    <repository>https://github.com/JulesYann/Karnet_BDD/raw/main/Karnet-master-v1.0.5.zip</repository>
     <file_name>Karnet-master-v1.0.5.zip</file_name>
     <version_installed>1.0.5</version_installed>
   </pyqgis_plugin>
